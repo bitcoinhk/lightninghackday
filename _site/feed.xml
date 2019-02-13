@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Feb 2019 18:31:37 +0800</pubDate>
-    <lastBuildDate>Mon, 11 Feb 2019 18:31:37 +0800</lastBuildDate>
+    <pubDate>Wed, 13 Feb 2019 12:15:01 +0800</pubDate>
+    <lastBuildDate>Wed, 13 Feb 2019 12:15:01 +0800</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -43,6 +43,19 @@
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_speakers/2019/01/01/kojihigashi/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/kojihigashi/</guid>
+        
+        
+        <category>2019_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Kurimoto Kenichi</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_speakers/2019/01/01/kenichi/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/kenichi/</guid>
         
         
         <category>2019_speakers</category>
@@ -124,19 +137,6 @@
         
         
         <category>2019_speakers</category>
-        
-      </item>
-    
-      <item>
-        <title>Leonhard Weese</title>
-        <description>
-</description>
-        <pubDate>Wed, 31 May 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_organizers/2017/05/31/leo/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_organizers/2017/05/31/leo/</guid>
-        
-        
-        <category>2019_organizers</category>
         
       </item>
     

@@ -1,0 +1,10 @@
+---
+title: Kurimoto Kenichi
+name: kurimotokenichi
+company: Nayuta
+layout: 2019_default
+modal-id: 1
+img: kurimotokenichi.png
+alt: Picture of Kurimoto Kenichi
+link: https://nayuta.co
+---
