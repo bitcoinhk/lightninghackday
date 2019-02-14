@@ -1,0 +1,10 @@
+---
+title: Richard Bensberg
+name: richard
+subtitle: Chief Organizer, Beijing Bitcoin Meetup
+layout: 2019_default
+img: richard.png
+thumbnail: richard_thumb.png
+alt: Picture of Richard Bensberg
+description: https://www.twitter.com/LeoAW
+---
