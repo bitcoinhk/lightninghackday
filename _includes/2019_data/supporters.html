@@ -10,12 +10,8 @@
             <div class="row">
             {% for post in site.categories.2019_supporters %}
                 <div class="col-md-2 col-sm-3 speakers-item">
-                        <img src="../css/2019_style/img/supporters/{{ post.thumbnail }}" class="img-responsive img-centered" alt="{{  post.alt }}" title="{{ post.position }}">
+                        <img src="../css/2019_style/img/supporters/{{ post.img }}" class="img-responsive img-centered" alt="{{  post.alt }}" title="{{ post.title }}">
                     </a>
-                    <div class="speakers-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted"><a href="{{ post.link }}">{{ post.company }}</a></p>
-                    </div>
                 </div>
             {% endfor %}
             </div>
