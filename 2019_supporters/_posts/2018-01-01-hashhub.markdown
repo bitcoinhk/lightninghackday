@@ -1,9 +1,0 @@
----
-title: Hashhub
-name: hashhub
-layout: 2019_default
-modal-id: 1
-img: hashhub.png
-alt: Logo of Lapps
-link: https://hashhub.tokyo/
----
