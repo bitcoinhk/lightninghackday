@@ -1,0 +1,10 @@
+---
+title: Alex Males
+name: alexmales
+company: Payable Links
+layout: 2019_default
+modal-id: 1
+img: alex_males.png
+alt: Picture of Alex Males
+link: /
+---

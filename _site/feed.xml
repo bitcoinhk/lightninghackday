@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Mar 2019 15:07:54 +0800</pubDate>
-    <lastBuildDate>Mon, 18 Mar 2019 15:07:54 +0800</lastBuildDate>
+    <pubDate>Wed, 20 Mar 2019 17:51:01 +0800</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2019 17:51:01 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -30,6 +30,19 @@
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_speakers/2019/01/01/mee/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/mee/</guid>
+        
+        
+        <category>2019_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Alex Males</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_speakers/2019/01/01/males/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/males/</guid>
         
         
         <category>2019_speakers</category>
@@ -69,19 +82,6 @@
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_speakers/2019/01/01/imai/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/imai/</guid>
-        
-        
-        <category>2019_speakers</category>
-        
-      </item>
-    
-      <item>
-        <title>Christian Moss</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_speakers/2019/01/01/christianmoss/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/christianmoss/</guid>
         
         
         <category>2019_speakers</category>
