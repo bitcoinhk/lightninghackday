@@ -1,0 +1,10 @@
+---
+title: Guillaume Verbal
+name: guillaumeverbal
+company: Scratchcard
+layout: 2019_default
+modal-id: 1
+img: guillaumeverbal.png
+alt: Picture of Guillaume Verbal
+link: https://lightningscratchcard.io/
+---
