@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Mar 2019 17:06:51 +0800</pubDate>
-    <lastBuildDate>Mon, 25 Mar 2019 17:06:51 +0800</lastBuildDate>
+    <pubDate>Tue, 26 Mar 2019 12:50:28 +0800</pubDate>
+    <lastBuildDate>Tue, 26 Mar 2019 12:50:28 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -115,25 +115,25 @@
       </item>
     
       <item>
-        <title>Adam Mashrique</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_speakers/2019/01/01/adammashrique/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/adammashrique/</guid>
-        
-        
-        <category>2019_speakers</category>
-        
-      </item>
-    
-      <item>
         <title>United Bitcoiners</title>
         <description>
 </description>
         <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_supporters/2018/01/01/unitedbitcoiners/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_supporters/2018/01/01/unitedbitcoiners/</guid>
+        
+        
+        <category>2019_supporters</category>
+        
+      </item>
+    
+      <item>
+        <title>Lapps.co</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_supporters/2018/01/01/lapps/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2018/01/01/lapps/</guid>
         
         
         <category>2019_supporters</category>

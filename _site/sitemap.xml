@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2019_sponsors/2017/01/01/TBD/</loc>
-<lastmod>2017-01-01T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2019_supporters/2017/01/01/TBD/</loc>
-<lastmod>2017-01-01T00:00:00+08:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2019_organizers/2017/05/31/amanda/</loc>
 <lastmod>2017-05-31T00:00:00+08:00</lastmod>
 </url>
@@ -39,10 +31,6 @@
 <url>
 <loc>http://localhost:4000/2019_supporters/2018/01/01/unitedbitcoiners/</loc>
 <lastmod>2018-01-01T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2019_speakers/2019/01/01/adammashrique/</loc>
-<lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2019_speakers/2019/01/01/babbev/</loc>
