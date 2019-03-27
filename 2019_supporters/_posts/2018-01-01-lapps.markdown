@@ -3,7 +3,7 @@ title: Lapps.co
 name: lapps
 layout: 2019_default
 modal-id: 1
-img: lapps-big.png
+img: lapps.png
 alt: Logo of Lapps
 link: https://www.lapps.co/
 ---
